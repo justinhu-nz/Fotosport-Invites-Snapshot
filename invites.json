@@ -1,0 +1,495 @@
+{
+  "generatedAt": "2026-04-13T04:27:34.293Z",
+  "metadata": {
+    "pageTitle": "My Invites | Photosport New Zealand",
+    "totalAvailable": 23146,
+    "limit": 60,
+    "sourceUrl": "https://www.photosport.nz/usr/invites",
+    "generatedAt": "2026-04-13T04:27:34.293Z",
+    "loginUrl": "https://www.photosport.nz/login?ref=%2Fusr%2Finvites",
+    "invitesUrl": "https://www.photosport.nz/usr/invites",
+    "snapshotFolder": "Photosport Invites Snapshot"
+  },
+  "invites": [
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "Sail GP - Rio de Janiero",
+      "url": "https://www.photosport.nz/gallery/Sail-GP-Rio-de-Janiero/G00004dNiUsL8zOI",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "WRC - Rally of Croatia 2026",
+      "url": "https://www.photosport.nz/gallery/WRC-Rally-of-Croatia-2026/G0000Q11l9WGko_M",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260418 Tactix v Pulse",
+      "url": "https://www.photosport.nz/gallery/260418-Tactix-v-Pulse/G0000ZeTvGyJnlh0",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260419 Auckland FC v Mariners",
+      "url": "https://www.photosport.nz/gallery/260419-Auckland-FC-v-Mariners/G0000GmvgZXwxUtA",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260418 Chiefs v Hurricanes",
+      "url": "https://www.photosport.nz/gallery/260418-Chiefs-v-Hurricanes/G0000nBbB8yByrN4",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260418 NRL Warriors v Titans",
+      "url": "https://www.photosport.nz/gallery/260418-NRL-Warriors-v-Titans/G0000e2GkKnUjtc8",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260418 NSW Warriors v Sea Eagles",
+      "url": "https://www.photosport.nz/gallery/260418-NSW-Warriors-v-Sea-Eagles/G0000usyRVLhIALg",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260418 JFC Warriors v Sea Eagles",
+      "url": "https://www.photosport.nz/gallery/260418-JFC-Warriors-v-Sea-Eagles/G0000unBRYTN3ucE",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260418 Wellington Phoenix v Wanderers",
+      "url": "https://www.photosport.nz/gallery/260418-Wellington-Phoenix-v-Wanderers/G0000.Xspmvhm4nQ",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260417 Blues v Highlanders",
+      "url": "https://www.photosport.nz/gallery/260417-Blues-v-Highlanders/G00000Pw77Dn2ydQ",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260417 Hawks v Jets",
+      "url": "https://www.photosport.nz/gallery/260417-Hawks-v-Jets/G0000cKTFhomyp98",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260419 Hong Kong 7s Finals",
+      "url": "https://www.photosport.nz/gallery/260419-Hong-Kong-7s-Finals/G0000vHdELN8tEIs",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260418 Hong Kong 7s",
+      "url": "https://www.photosport.nz/gallery/260418-Hong-Kong-7s/G0000GPXkpwfvuew",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260417 Hong Kong 7s",
+      "url": "https://www.photosport.nz/gallery/260417-Hong-Kong-7s/G0000TIKPXHB_Tlo",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260415 Govt House Investitures",
+      "url": "https://www.photosport.nz/gallery/260415-Govt-House-Investitures/G0000gHzoOxU5mDw",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "12 Apr 2026",
+      "dateIso": "2026-04-12",
+      "invitedBy": "Photosport NZ",
+      "title": "260415 Football Ferns v PNG OFC Final",
+      "url": "https://www.photosport.nz/gallery/260415-Football-Ferns-v-PNG-OFC-Final/G00008DzYknmi5oY",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "8 Apr 2026",
+      "dateIso": "2026-04-08",
+      "invitedBy": "Photosport NZ",
+      "title": "260409 Football Ferns Portraits",
+      "url": "https://www.photosport.nz/gallery/260409-Football-Ferns-Portraits/G0000HYxJ.g6eO48",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "8 Apr 2026",
+      "dateIso": "2026-04-08",
+      "invitedBy": "Photosport NZ",
+      "title": "260409 Football Ferns Headshots",
+      "url": "https://www.photosport.nz/gallery/260409-Football-Ferns-Headshots/G00000vGeoAeYuSI",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "7 Apr 2026",
+      "dateIso": "2026-04-07",
+      "invitedBy": "Photosport NZ",
+      "title": "260412 Saints v Jets",
+      "url": "https://www.photosport.nz/gallery/260412-Saints-v-Jets/G00005bpZJLHkfgM",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "7 Apr 2026",
+      "dateIso": "2026-04-07",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 ITM Taupō Super 440",
+      "url": "https://www.photosport.nz/gallery/260411-ITM-Taup-Super-440/G0000Cjp_0HEVDEA",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "7 Apr 2026",
+      "dateIso": "2026-04-07",
+      "invitedBy": "Photosport NZ",
+      "title": "2026 Australian Swimming Championships",
+      "url": "https://www.photosport.nz/gallery/2026-Australian-Swimming-Championships/G00007fit9h4y2wI",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "7 Apr 2026",
+      "dateIso": "2026-04-07",
+      "invitedBy": "Photosport NZ",
+      "title": "2026 US Masters",
+      "url": "https://www.photosport.nz/gallery/2026-US-Masters/G00002aSmk6Xuitk",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260412 Stars v Mystics",
+      "url": "https://www.photosport.nz/gallery/260412-Stars-v-Mystics/G000084BiR02__sc",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260412 Melbourne City FC v Phoenix",
+      "url": "https://www.photosport.nz/gallery/260412-Melbourne-City-FC-v-Phoenix/G0000VSFLTPqkZlE",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260412 Giants v Rams",
+      "url": "https://www.photosport.nz/gallery/260412-Giants-v-Rams/G0000sMlYbkjcj6I",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 Football Ferns v Fiji",
+      "url": "https://www.photosport.nz/gallery/260411-Football-Ferns-v-Fiji/G0000vgzmQe4cJzg",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 USA v Black Ferns",
+      "url": "https://www.photosport.nz/gallery/260411-USA-v-Black-Ferns/G0000VDJDdcvoTG8",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 NRL Storm v Warriors",
+      "url": "https://www.photosport.nz/gallery/260411-NRL-Storm-v-Warriors/G0000gcGafhLV7ME",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 Tactix v Steel",
+      "url": "https://www.photosport.nz/gallery/260411-Tactix-v-Steel/G0000f_uPnAXd7Fs",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 Pulse v Magic",
+      "url": "https://www.photosport.nz/gallery/260411-Pulse-v-Magic/G0000bEHt9TWDhDE",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 Reds v Crusaders",
+      "url": "https://www.photosport.nz/gallery/260411-Reds-v-Crusaders/G0000.qAKmsUTfF4",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 Hurricanes v Blues",
+      "url": "https://www.photosport.nz/gallery/260411-Hurricanes-v-Blues/G0000uZbWiObhOUI",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "6 Apr 2026",
+      "dateIso": "2026-04-06",
+      "invitedBy": "Photosport NZ",
+      "title": "260411 Auckland FC v Melbourne Victory",
+      "url": "https://www.photosport.nz/gallery/260411-Auckland-FC-v-Melbourne-Victory/G0000gwA0xFLfyYY",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "5 Apr 2026",
+      "dateIso": "2026-04-05",
+      "invitedBy": "Photosport NZ",
+      "title": "260405 Kings v 36ers NBL Final",
+      "url": "https://www.photosport.nz/gallery/260405-Kings-v-36ers-NBL-Final/G0000WkFfe65ZhSY",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "4 Apr 2026",
+      "dateIso": "2026-04-04",
+      "invitedBy": "Photosport NZ",
+      "title": "260405 Te Kaha Warriors Fan Day",
+      "url": "https://www.photosport.nz/gallery/260405-Te-Kaha-Warriors-Fan-Day/G0000Wosvs0gCWMw",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "4 Apr 2026",
+      "dateIso": "2026-04-04",
+      "invitedBy": "Photosport NZ",
+      "title": "260404 Mavericks v Thunderbirds",
+      "url": "https://www.photosport.nz/gallery/260404-Mavericks-v-Thunderbirds/G0000HTYGCqWIIgc",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "3 Apr 2026",
+      "dateIso": "2026-04-03",
+      "invitedBy": "Photosport NZ",
+      "title": "LPGA_Aramco Championship 2026",
+      "url": "https://www.photosport.nz/gallery/LPGA-Aramco-Championship-2026/G0000oVSpNkLJj.g",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "3 Apr 2026",
+      "dateIso": "2026-04-03",
+      "invitedBy": "Photosport NZ",
+      "title": "260403 ESAFC v Akl United FC",
+      "url": "https://www.photosport.nz/gallery/260403-ESAFC-v-Akl-United-FC/G000064iqvT7FRms",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "3 Apr 2026",
+      "dateIso": "2026-04-03",
+      "invitedBy": "Photosport NZ",
+      "title": "260403 Adelaide Utd v Auckland FC",
+      "url": "https://www.photosport.nz/gallery/260403-Adelaide-Utd-v-Auckland-FC/G0000656YHiFohXA",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "1 Apr 2026",
+      "dateIso": "2026-04-01",
+      "invitedBy": "Photosport NZ",
+      "title": "260404 NSW Jets v Warriors",
+      "url": "https://www.photosport.nz/gallery/260404-NSW-Jets-v-Warriors/G000080xENDLrLBg",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "31 Mar 2026",
+      "dateIso": "2026-03-31",
+      "invitedBy": "Photosport NZ",
+      "title": "260331 Bosnia Herzegovina v Italy",
+      "url": "https://www.photosport.nz/gallery/260331-Bosnia-Herzegovina-v-Italy/G0000G58PsxuNyQs",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "30 Mar 2026",
+      "dateIso": "2026-03-30",
+      "invitedBy": "Photosport NZ",
+      "title": "PGA Houston Open",
+      "url": "https://www.photosport.nz/gallery/PGA-Houston-Open/G0000EvEMOQIeq3U",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "260405 National District 9s",
+      "url": "https://www.photosport.nz/gallery/260405-National-District-9s/G000073dXPkRlkuY",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "260404 National District 9s",
+      "url": "https://www.photosport.nz/gallery/260404-National-District-9s/G00005SI5IplMHyk",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "260405 Sharks v Warriors",
+      "url": "https://www.photosport.nz/gallery/260405-Sharks-v-Warriors/G0000tRwWMHMSD6s",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "260405 Melbourne Victory v Wellington Phoenix",
+      "url": "https://www.photosport.nz/gallery/260405-Melbourne-Victory-v-Wellington-Phoenix/G0000EnYM3EewOXA",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "260404 Reds v Force",
+      "url": "https://www.photosport.nz/gallery/260404-Reds-v-Force/G0000YPE6LxaQyDA",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "260403 Adelaide Utd v Wellington Phoenix",
+      "url": "https://www.photosport.nz/gallery/260403-Adelaide-Utd-v-Wellington-Phoenix/G0000g27sWMGG_ag",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "260404 Chiefs v Waratahs",
+      "url": "https://www.photosport.nz/gallery/260404-Chiefs-v-Waratahs/G0000imKqdEH7VfY",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "260403 Crusaders v Fijian Drua",
+      "url": "https://www.photosport.nz/gallery/260403-Crusaders-v-Fijian-Drua/G0000tra48wnxnRs",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "29 Mar 2026",
+      "dateIso": "2026-03-29",
+      "invitedBy": "Photosport NZ",
+      "title": "2026 Miami Open",
+      "url": "https://www.photosport.nz/gallery/2026-Miami-Open/G0000SAmmnLv3vyI",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "28 Mar 2026",
+      "dateIso": "2026-03-28",
+      "invitedBy": "Photosport NZ",
+      "title": "260327 All Whites Headshots",
+      "url": "https://www.photosport.nz/gallery/260327-All-Whites-Headshots/G0000SyVjZdJA_2w",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "28 Mar 2026",
+      "dateIso": "2026-03-28",
+      "invitedBy": "Photosport NZ",
+      "title": "260327 Cape Verde Headshots",
+      "url": "https://www.photosport.nz/gallery/260327-Cape-Verde-Headshots/G0000PBsBj8Uwqkw",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "28 Mar 2026",
+      "dateIso": "2026-03-28",
+      "invitedBy": "Photosport NZ",
+      "title": "260328 Lightning v Swifts",
+      "url": "https://www.photosport.nz/gallery/260328-Lightning-v-Swifts/G0000fpZEFeBeol8",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "27 Mar 2026",
+      "dateIso": "2026-03-27",
+      "invitedBy": "Photosport NZ",
+      "title": "260327 Chile Headshots",
+      "url": "https://www.photosport.nz/gallery/260327-Chile-Headshots/G0000615Fw2nYRZM",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "27 Mar 2026",
+      "dateIso": "2026-03-27",
+      "invitedBy": "Photosport NZ",
+      "title": "260327 Finland Headshots",
+      "url": "https://www.photosport.nz/gallery/260327-Finland-Headshots/G0000rl0D1rBGCFc",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "27 Mar 2026",
+      "dateIso": "2026-03-27",
+      "invitedBy": "Photosport NZ",
+      "title": "Formula 1 - Grand Prix of Japan",
+      "url": "https://www.photosport.nz/gallery/Formula-1-Grand-Prix-of-Japan/G00004.Un2oxGd_A",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "27 Mar 2026",
+      "dateIso": "2026-03-27",
+      "invitedBy": "Photosport NZ",
+      "title": "LPGA Ford Championship 2026",
+      "url": "https://www.photosport.nz/gallery/LPGA-Ford-Championship-2026/G0000HblIDrDKEj0",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "26 Mar 2026",
+      "dateIso": "2026-03-26",
+      "invitedBy": "Photosport NZ",
+      "title": "260330 PS Aces v Canterbury",
+      "url": "https://www.photosport.nz/gallery/260330-PS-Aces-v-Canterbury/G0000VGnL3_.5uvU",
+      "expires": "n/a"
+    },
+    {
+      "rawDate": "26 Mar 2026",
+      "dateIso": "2026-03-26",
+      "invitedBy": "Photosport NZ",
+      "title": "260328 PS Aces v Canterbury",
+      "url": "https://www.photosport.nz/gallery/260328-PS-Aces-v-Canterbury/G0000HCT0AbwRYnU",
+      "expires": "n/a"
+    }
+  ]
+}
