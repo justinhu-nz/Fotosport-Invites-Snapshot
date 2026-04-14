@@ -41,6 +41,27 @@
       border-radius: 6px;
     }
 
+    .login-banner {
+      margin-bottom: 8px;
+      padding: 10px 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+      background: #fff7ed;
+      border: 1px solid #fdba74;
+      border-radius: 6px;
+    }
+
+    .login-banner p {
+      margin: 0;
+      color: #9a3412;
+      font-size: 13px;
+      line-height: 1.4;
+      font-weight: 600;
+    }
+
     .hero {
       padding: 12px 14px;
       display: flex;
@@ -169,6 +190,25 @@
 
     button:hover { background: var(--accent-strong); }
 
+    .button-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid #fb923c;
+      border-radius: 6px;
+      padding: 8px 12px;
+      background: #ea580c;
+      color: #ffffff;
+      font: inherit;
+      font-weight: 600;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .button-link:hover {
+      background: #c2410c;
+    }
+
     button.secondary {
       background: #ffffff;
       color: var(--ink);
@@ -277,6 +317,10 @@
         padding: 14px;
       }
 
+      .login-banner {
+        align-items: flex-start;
+      }
+
       .hero {
         align-items: flex-start;
       }
@@ -310,13 +354,18 @@
 </head>
 <body>
   <main class="page">
+    <section class="login-banner">
+      <p>Make sure you are logged into Photosport before opening gallery links from this snapshot.</p>
+      <a class="button-link" href="https://www.photosport.nz/login?ref=%2Fusr%2Finvites" target="_blank" rel="noopener noreferrer">Open Photosport Login</a>
+    </section>
+
     <section class="hero">
       <div class="hero-main">
         <h1>My Invites</h1>
         <div class="meta-grid">
           <div class="meta-card">
             <span>Generated</span>
-            <strong>Wednesday, 15 April 2026 at 10:27 am</strong>
+            <strong>Wednesday, 15 April 2026 at 11:20 am</strong>
           </div>
           <div class="meta-card">
             <span>Saved</span>
@@ -373,7 +422,7 @@
     </section>
 
     <section class="notes">
-      <p>The snapshot is limited to the latest 60 rows captured from Fotosport. Use the filters above to narrow the list before opening selected galleries in new tabs.</p>
+      <p>The snapshot is limited to the latest 60 rows captured from Fotosport. Use the filters above to narrow the list before opening gallery links.</p>
     </section>
   </main>
 
@@ -861,12 +910,12 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-04-14T22:27:15.607Z",
+    "generatedAt": "2026-04-14T23:20:04.558Z",
     "sourceUrl": "https://www.photosport.nz/usr/invites",
+    "loginUrl": "https://www.photosport.nz/login?ref=%2Fusr%2Finvites",
     "totalAvailable": 23152,
     "limit": 60,
     "pageTitle": "My Invites | Photosport New Zealand",
-    "loginUrl": "https://www.photosport.nz/login?ref=%2Fusr%2Finvites",
     "invitesUrl": "https://www.photosport.nz/usr/invites",
     "snapshotFolder": "Photosport Invites Snapshot"
   }
