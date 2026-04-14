@@ -316,7 +316,7 @@
         <div class="meta-grid">
           <div class="meta-card">
             <span>Generated</span>
-            <strong>Tuesday, 14 April 2026 at 1:58 pm</strong>
+            <strong>Tuesday, 14 April 2026 at 2:03 pm</strong>
           </div>
           <div class="meta-card">
             <span>Saved</span>
@@ -348,7 +348,6 @@
       <div class="toolbar">
         <button id="selectVisibleButton" class="secondary" type="button">Select Visible</button>
         <button id="clearSelectionButton" class="secondary" type="button">Clear Selection</button>
-        <button id="openSelectedButton" type="button">Open Selected in New Tabs</button>
       </div>
     </section>
 
@@ -862,7 +861,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-04-14T01:58:04.071Z",
+    "generatedAt": "2026-04-14T02:03:14.109Z",
     "sourceUrl": "https://www.photosport.nz/usr/invites",
     "totalAvailable": 23150,
     "limit": 60,
@@ -881,7 +880,6 @@
       const daysInput = document.getElementById('daysInput');
       const selectVisibleButton = document.getElementById('selectVisibleButton');
       const clearSelectionButton = document.getElementById('clearSelectionButton');
-      const openSelectedButton = document.getElementById('openSelectedButton');
       const summaryNode = document.getElementById('resultsSummary');
       const tbody = document.getElementById('resultsBody');
 
@@ -1001,19 +999,6 @@
       clearSelectionButton.addEventListener('click', function () {
         selectedUrls.clear();
         render();
-      });
-
-      openSelectedButton.addEventListener('click', function () {
-        const urls = invites
-          .filter(function (invite) { return selectedUrls.has(invite.url); })
-          .map(function (invite) { return invite.url; })
-          .filter(Boolean);
-
-        urls.forEach(function (url, index) {
-          window.setTimeout(function () {
-            window.open(url, '_blank', 'noopener');
-          }, index * 120);
-        });
       });
 
       render();
